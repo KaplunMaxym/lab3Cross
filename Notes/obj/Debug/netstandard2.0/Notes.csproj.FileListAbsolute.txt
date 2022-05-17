@@ -1,0 +1,51 @@
+C:/Visual Labs/Lab 3/Notes/Notes/Notes/bin/Debug/netstandard2.0/Notes.deps.json
+C:/Visual Labs/Lab 3/Notes/Notes/Notes/bin/Debug/netstandard2.0/Notes.dll
+C:/Visual Labs/Lab 3/Notes/Notes/Notes/bin/Debug/netstandard2.0/ref/Notes.dll
+C:/Visual Labs/Lab 3/Notes/Notes/Notes/bin/Debug/netstandard2.0/Notes.pdb
+C:/Visual Labs/Lab 3/Notes/Notes/Notes/obj/Debug/netstandard2.0/Notes.csproj.AssemblyReference.cache
+C:/Visual Labs/Lab 3/Notes/Notes/Notes/obj/Debug/netstandard2.0/Notes.GeneratedMSBuildEditorConfig.editorconfig
+C:/Visual Labs/Lab 3/Notes/Notes/Notes/obj/Debug/netstandard2.0/App.xaml.g.cs
+C:/Visual Labs/Lab 3/Notes/Notes/Notes/obj/Debug/netstandard2.0/AppShell.xaml.g.cs
+C:/Visual Labs/Lab 3/Notes/Notes/Notes/obj/Debug/netstandard2.0/Views/AboutPage.xaml.g.cs
+C:/Visual Labs/Lab 3/Notes/Notes/Notes/obj/Debug/netstandard2.0/Views/NotesPage.xaml.g.cs
+C:/Visual Labs/Lab 3/Notes/Notes/Notes/obj/Debug/netstandard2.0/Notes.AssemblyInfoInputs.cache
+C:/Visual Labs/Lab 3/Notes/Notes/Notes/obj/Debug/netstandard2.0/Notes.AssemblyInfo.cs
+C:/Visual Labs/Lab 3/Notes/Notes/Notes/obj/Debug/netstandard2.0/Notes.csproj.CoreCompileInputs.cache
+C:/Visual Labs/Lab 3/Notes/Notes/Notes/obj/Debug/netstandard2.0/XamlC.stamp
+C:/Visual Labs/Lab 3/Notes/Notes/Notes/obj/Debug/netstandard2.0/Notes.dll
+C:/Visual Labs/Lab 3/Notes/Notes/Notes/obj/Debug/netstandard2.0/ref/Notes.dll
+C:/Visual Labs/Lab 3/Notes/Notes/Notes/obj/Debug/netstandard2.0/Notes.pdb
+/Users/maksimkaplun/Downloads/Lab 3/Notes/Notes/Notes/bin/Debug/netstandard2.0/Notes.deps.json
+/Users/maksimkaplun/Downloads/Lab 3/Notes/Notes/Notes/bin/Debug/netstandard2.0/Notes.dll
+/Users/maksimkaplun/Downloads/Lab 3/Notes/Notes/Notes/bin/Debug/netstandard2.0/ref/Notes.dll
+/Users/maksimkaplun/Downloads/Lab 3/Notes/Notes/Notes/bin/Debug/netstandard2.0/Notes.pdb
+/Users/maksimkaplun/Downloads/Lab 3/Notes/Notes/Notes/obj/Debug/netstandard2.0/Notes.csproj.AssemblyReference.cache
+/Users/maksimkaplun/Downloads/Lab 3/Notes/Notes/Notes/obj/Debug/netstandard2.0/Notes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimkaplun/Downloads/Lab 3/Notes/Notes/Notes/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/maksimkaplun/Downloads/Lab 3/Notes/Notes/Notes/obj/Debug/netstandard2.0/AppShell.xaml.g.cs
+/Users/maksimkaplun/Downloads/Lab 3/Notes/Notes/Notes/obj/Debug/netstandard2.0/Views/AboutPage.xaml.g.cs
+/Users/maksimkaplun/Downloads/Lab 3/Notes/Notes/Notes/obj/Debug/netstandard2.0/Views/NotesPage.xaml.g.cs
+/Users/maksimkaplun/Downloads/Lab 3/Notes/Notes/Notes/obj/Debug/netstandard2.0/Notes.AssemblyInfoInputs.cache
+/Users/maksimkaplun/Downloads/Lab 3/Notes/Notes/Notes/obj/Debug/netstandard2.0/Notes.AssemblyInfo.cs
+/Users/maksimkaplun/Downloads/Lab 3/Notes/Notes/Notes/obj/Debug/netstandard2.0/Notes.csproj.CoreCompileInputs.cache
+/Users/maksimkaplun/Downloads/Lab 3/Notes/Notes/Notes/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/maksimkaplun/Downloads/Lab 3/Notes/Notes/Notes/obj/Debug/netstandard2.0/Notes.dll
+/Users/maksimkaplun/Downloads/Lab 3/Notes/Notes/Notes/obj/Debug/netstandard2.0/ref/Notes.dll
+/Users/maksimkaplun/Downloads/Lab 3/Notes/Notes/Notes/obj/Debug/netstandard2.0/Notes.pdb
+/Users/maksimkaplun/ТНТУ/crossplatform/lab3/Notes/Notes/Notes/bin/Debug/netstandard2.0/Notes.deps.json
+/Users/maksimkaplun/ТНТУ/crossplatform/lab3/Notes/Notes/Notes/bin/Debug/netstandard2.0/Notes.dll
+/Users/maksimkaplun/ТНТУ/crossplatform/lab3/Notes/Notes/Notes/bin/Debug/netstandard2.0/ref/Notes.dll
+/Users/maksimkaplun/ТНТУ/crossplatform/lab3/Notes/Notes/Notes/bin/Debug/netstandard2.0/Notes.pdb
+/Users/maksimkaplun/ТНТУ/crossplatform/lab3/Notes/Notes/Notes/obj/Debug/netstandard2.0/Notes.csproj.AssemblyReference.cache
+/Users/maksimkaplun/ТНТУ/crossplatform/lab3/Notes/Notes/Notes/obj/Debug/netstandard2.0/Notes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimkaplun/ТНТУ/crossplatform/lab3/Notes/Notes/Notes/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/maksimkaplun/ТНТУ/crossplatform/lab3/Notes/Notes/Notes/obj/Debug/netstandard2.0/AppShell.xaml.g.cs
+/Users/maksimkaplun/ТНТУ/crossplatform/lab3/Notes/Notes/Notes/obj/Debug/netstandard2.0/Views/AboutPage.xaml.g.cs
+/Users/maksimkaplun/ТНТУ/crossplatform/lab3/Notes/Notes/Notes/obj/Debug/netstandard2.0/Views/NotesPage.xaml.g.cs
+/Users/maksimkaplun/ТНТУ/crossplatform/lab3/Notes/Notes/Notes/obj/Debug/netstandard2.0/Notes.AssemblyInfoInputs.cache
+/Users/maksimkaplun/ТНТУ/crossplatform/lab3/Notes/Notes/Notes/obj/Debug/netstandard2.0/Notes.AssemblyInfo.cs
+/Users/maksimkaplun/ТНТУ/crossplatform/lab3/Notes/Notes/Notes/obj/Debug/netstandard2.0/Notes.csproj.CoreCompileInputs.cache
+/Users/maksimkaplun/ТНТУ/crossplatform/lab3/Notes/Notes/Notes/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/maksimkaplun/ТНТУ/crossplatform/lab3/Notes/Notes/Notes/obj/Debug/netstandard2.0/Notes.dll
+/Users/maksimkaplun/ТНТУ/crossplatform/lab3/Notes/Notes/Notes/obj/Debug/netstandard2.0/ref/Notes.dll
+/Users/maksimkaplun/ТНТУ/crossplatform/lab3/Notes/Notes/Notes/obj/Debug/netstandard2.0/Notes.pdb
